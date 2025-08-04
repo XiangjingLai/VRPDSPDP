@@ -1,0 +1,81 @@
+Route1: 	17[ 2 , 0 ] - 4[ 8 , 10 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route2: 	17[ 9 , 8 ] - DEPOT
+Maxload: 9	Capacity: 10
+
+Route3: 	10[ 4 , 4 ] - 12[ 6 , 6 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route4: 	13[ 8 , 8 ] - 8[ 2 , 2 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route5: 	11[ 5 , 0 ] - 1[ 5 , 10 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route6: 	16[ 10 , 10 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route7: 	14[ 10 , 4 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route8: 	9[ 3 , 0 ] - 3[ 7 , 10 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route9: 	15[ 10 , 6 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route10: 	15[ 9 , 4 ] - DEPOT
+Maxload: 9	Capacity: 10
+
+Route11: 	6[ 10 , 10 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route12: 	18[ 10 , 4 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route13: 	8[ 10 , 8 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route14: 	17[ 10 , 2 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route15: 	19[ 9 , 6 ] - DEPOT
+Maxload: 9	Capacity: 10
+
+Route16: 	19[ 10 , 4 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route17: 	16[ 10 , 0 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route18: 	19[ 4 , 0 ] - 2[ 6 , 10 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route19: 	7[ 10 , 10 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route20: 	7[ 1 , 0 ] - 13[ 9 , 2 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route21: 	14[ 8 , 6 ] - 18[ 2 , 0 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route22: 	18[ 10 , 6 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route23: 	5[ 9 , 10 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route24: 	11[ 10 , 10 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route25: 	10[ 10 , 6 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route26: 	12[ 10 , 4 ] - DEPOT
+Maxload: 10	Capacity: 10
+
+Route27: 	9[ 10 , 10 ] - DEPOT
+Maxload: 10	Capacity: 10
+
