@@ -1,0 +1,69 @@
+Route1: 	8[ 96 , 0 ] - 48[ 64 , 0 ] - DEPOT
+Maxload: 160	Capacity: 160
+
+Route2: 	6[ 48 , 0 ] - 14[ 111 , 0 ] - DEPOT
+Maxload: 159	Capacity: 160
+
+Route3: 	49[ 78 , 0 ] - 10[ 77 , 0 ] - 5[ 1 , 0 ] - DEPOT
+Maxload: 156	Capacity: 160
+
+Route4: 	34[ 91 , 0 ] - 9[ 53 , 0 ] - 5[ 16 , 0 ] - DEPOT
+Maxload: 160	Capacity: 160
+
+Route5: 	47[ 9.6 , 0 ] - 4[ 12 , 0 ] - 19[ 3.2 , 0 ] - 40[ 79 , 0 ] - 41[ 55 , 0 ] - DEPOT
+Maxload: 158.8	Capacity: 160
+
+Route6: 	48[ 7 , 0 ] - 26[ 51 , 0 ] - 7[ 54 , 0 ] - 23[ 48 , 0 ] - DEPOT
+Maxload: 160	Capacity: 160
+
+Route7: 	16[ 53 , 0 ] - 50[ 106 , 0 ] - DEPOT
+Maxload: 159	Capacity: 160
+
+Route8: 	42[ 111 , 0 ] - 19[ 48.8 , 0 ] - DEPOT
+Maxload: 159.8	Capacity: 160
+
+Route9: 	2[ 35.4 , 0 ] - 29[ 60 , 0 ] - 21[ 64 , 0 ] - DEPOT
+Maxload: 159.4	Capacity: 160
+
+Route10: 	38[ 104 , 0 ] - 11[ 53 , 0 ] - DEPOT
+Maxload: 157	Capacity: 160
+
+Route11: 	31[ 52 , 0 ] - 28[ 108 , 0 ] - DEPOT
+Maxload: 160	Capacity: 160
+
+Route12: 	1[ 59 , 0 ] - 22[ 78 , 0 ] - 46[ 15 , 0 ] - DEPOT
+Maxload: 152	Capacity: 160
+
+Route13: 	2[ 33.6 , 0 ] - 20[ 69 , 0 ] - 3[ 56 , 0 ] - DEPOT
+Maxload: 158.6	Capacity: 160
+
+Route14: 	25[ 63 , 0 ] - 13[ 59 , 0 ] - 18[ 35 , 0 ] - DEPOT
+Maxload: 157	Capacity: 160
+
+Route15: 	12[ 64 , 0 ] - 46[ 96 , 0 ] - DEPOT
+Maxload: 160	Capacity: 160
+
+Route16: 	23[ 4 , 0 ] - 43[ 58 , 0 ] - 24[ 93 , 0 ] - DEPOT
+Maxload: 155	Capacity: 160
+
+Route17: 	36[ 100 , 0 ] - 35[ 54 , 0 ] - 32[ 4.8 , 0 ] - DEPOT
+Maxload: 158.8	Capacity: 160
+
+Route18: 	5[ 32 , 0 ] - 33[ 56 , 0 ] - 45[ 66 , 0 ] - 15[ 3.2 , 0 ] - 12[ 2.8 , 0 ] - DEPOT
+Maxload: 160	Capacity: 160
+
+Route19: 	15[ 48.8 , 0 ] - 44[ 51 , 0 ] - 37[ 49 , 0 ] - 12[ 11.2 , 0 ] - DEPOT
+Maxload: 160	Capacity: 160
+
+Route20: 	10[ 32 , 0 ] - 39[ 55 , 0 ] - 30[ 70 , 0 ] - DEPOT
+Maxload: 157	Capacity: 160
+
+Route21: 	6[ 46 , 0 ] - 18[ 64 , 0 ] - 47[ 49.8 , 0 ] - DEPOT
+Maxload: 159.8	Capacity: 160
+
+Route22: 	32[ 106.2 , 0 ] - 27[ 52 , 0 ] - DEPOT
+Maxload: 158.2	Capacity: 160
+
+Route23: 	47[ 1.6 , 0 ] - 4[ 96 , 0 ] - 17[ 62 , 0 ] - DEPOT
+Maxload: 159.6	Capacity: 160
+
